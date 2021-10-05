@@ -1,5 +1,7 @@
 # INITIAL SETUP
 sudo npm install -g serverless
+
+## install dependencies 
 npm install
 
 # DB Scripts 
