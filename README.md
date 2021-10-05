@@ -1,17 +1,17 @@
-<!-- INITIAL SETUP -->
+# INITIAL SETUP
 sudo npm install -g serverless
 npm install
 
-<!-- DB Scripts -->
+# DB Scripts 
 db_scripts folder at root
 
-<!-- To Run Project Offline -->
+# To Run Project Offline
 serverless offline
 
-<!-- To Run Tests -->
+# To Run Tests
 npm run test
 
-<!-- urls -->
+# URLs
 http://localhost:3000/dev/addTask
 method - POST
 Body - {"title":"T1"}
